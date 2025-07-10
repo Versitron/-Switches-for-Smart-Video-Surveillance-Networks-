@@ -11,7 +11,7 @@ Versitron’s **switches for smart video surveillance networks** are engineered 
 
 ---
 
-## [Security Camera Ethernet Switches](https://www.versitron.com/products/sf70760mp-7port-managed-industrial-poe-poe-plus-switch) 
+## [Security Camera Ethernet Switches](https://www.versitron.com/products/sf70760mp-7port-managed-industrial-poe-poe-plus-switch)  
 Our **security camera Ethernet switches** provide plug-and-play connectivity for IP cameras, with PoE/PoE+ ports that supply both data and power over a single cable. Designed for minimal setup, these switches auto-negotiate speed and power requirements, ensuring each camera receives consistent voltage and bandwidth without manual configuration.
 
 ---
